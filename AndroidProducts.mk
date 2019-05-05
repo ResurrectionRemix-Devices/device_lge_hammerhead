@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_hammerhead.mk
+    $(LOCAL_DIR)/rr_hammerhead.mk
